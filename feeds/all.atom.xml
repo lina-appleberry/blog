@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>カオスの縁から飛び降りたい</title><link href="https://lina-appleberry.github.io/blog/" rel="alternate"></link><link href="https://lina-appleberry.github.io/blog/feeds/all.atom.xml" rel="self"></link><id>https://lina-appleberry.github.io/blog/</id><updated>2018-03-31T23:55:00+09:00</updated><entry><title>ブログはじめました</title><link href="https://lina-appleberry.github.io/blog/buroguhazimemashita.html" rel="alternate"></link><published>2018-03-31T23:55:00+09:00</published><updated>2018-03-31T23:55:00+09:00</updated><author><name>lina_appleberry</name></author><id>tag:lina-appleberry.github.io,2018-03-31:/blog/buroguhazimemashita.html</id><summary type="html">&lt;p&gt;ブログ投稿テスト&lt;/p&gt;</summary><content type="html">&lt;h1&gt;初投稿です&lt;/h1&gt;
+&lt;p&gt;カオスの縁から飛び降りたい&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="c1"&gt;# python code&lt;/span&gt;
+&lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;その先は秩序か、混沌か———&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;</content><category term="pelican"></category><category term="python"></category></entry></feed>
